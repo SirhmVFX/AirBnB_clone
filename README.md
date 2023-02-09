@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Folarin | Email: [Mr. Folarin](mailto:sahmiel@outlook.com) 
+Mogbolahan Folarin | Email: [Mogbolahan Folarin](mailto:sahmiel@outlook.com) 
 
 Ganiu Samuel | Github: [sirhmvfx](mailto:sirhmvfx@gmail.com)
